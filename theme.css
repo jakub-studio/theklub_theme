@@ -140,7 +140,7 @@ code {
 
 /*Butt-ons*/
 .btn {
-    padding: 7px .75rem;
+    padding: 7px .75rem; !important
 }
 .btn-primary {
     color: #fff;
