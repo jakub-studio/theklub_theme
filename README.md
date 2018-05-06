@@ -1,2 +1,1 @@
-# theklub_theme
-Theme for the klub site.
+# Theme for The Klub
