@@ -139,6 +139,9 @@ code {
 }
 
 /*Butt-ons*/
+.btn {
+    padding: 7px .75rem;
+}
 .btn-primary {
     color: #fff;
     background-color: var(--darkbg);
