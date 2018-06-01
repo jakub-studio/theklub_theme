@@ -1,3 +1,6 @@
+# Deprecated
+Since these were made, the sites layout and css changed massively. It looks somehwat alright and I won't be bothering to update these files.
+
 # Theme for The Klub
 <sup>this used to be a gist, however I moved it here so it auto updoots because RawGit keeps you locked to a certain commit when using gists.</sup>
 
